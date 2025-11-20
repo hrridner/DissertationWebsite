@@ -56,6 +56,12 @@ format:
 
 ::: {.column width="75%"}
 
+::: {.map-row}
+
+<div class="filter-panel">
+  <!-- your existing Search form HTML stays here -->
+</div>
+
 ```{r}
 #| echo: false
 #| fig-width: 7
@@ -65,9 +71,10 @@ library(leaflet)
 
 leaflet() |>
 addTiles() |>
-setView(lng = -98.5, lat = 39.5, zoom = 4)
+setView(lng = -30, lat = 35, zoom = 4)
 
 ```
+:::
 :::
 :::
 
