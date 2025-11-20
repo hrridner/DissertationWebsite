@@ -58,9 +58,6 @@ format:
 
 ::: {.map-row}
 
-<div class="filter-panel">
-  <!-- your existing Search form HTML stays here -->
-</div>
 
 ```{r}
 #| echo: false
@@ -74,7 +71,6 @@ addTiles() |>
 setView(lng = -30, lat = 35, zoom = 4)
 
 ```
-:::
 :::
 :::
 
