@@ -27,10 +27,10 @@ format:
     <label for="service-type" class="form-label">Harm reduction service type</label>
     <select id="service-type" class="form-select">
       <option selected>All harm reduction services</option>
-      <option>Syringe service programs (SSPs)</option>
-      <option>Naloxone distribution</option>
-      <option>MOUD / treatment programs</option>
-      <option>Supportive housing / low-barrier shelters</option>
+      <option>Syringe Service Programs</option>
+      <option>Naloxone Distribution</option>
+      <option>Opioid Treatment Programs</option>
+      <option>Supportive Housing Services</option>
     </select>
     <div class="form-text">
       In the full version, this will filter the map and results list by service type.
