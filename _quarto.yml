@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Harm Reduction Service Access"
+  navbar:
+    left:
+      - text: "Indicators of Need"
+        href: indicatorspage.qmd
+      - text: "Data Access"
+        href: datapage.qmd
+
+format:
+  html:
+    theme: flatly
+    css: styles.css

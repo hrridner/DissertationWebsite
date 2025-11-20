@@ -1,0 +1,32 @@
+---
+toc: true
+---
+
+
+
+This page shows the risk indicators for states: 
+
+* **Dispensing Rates:** Naloxone, Buprenorphine, and Opioids, 2021 - 2023, averaged, per 100
+* Overdose Mortality Rates, 2021 - 2023, averaged, per 100k
+* HIV Cases (%) Among Injection Drug Users, 2023
+
+## Naloxone Dispensing Rates for All States
+
+![](images/NaloxoneDispensingRates_AllStates.jpg)
+
+## Buprenorphine Dispensing Rates for All States
+
+![](images/BuprenorphineDispensingRates_AllStates.png)
+
+
+## Opioid Dispensing Rates for All States
+
+![](images/OpioidDispensingRates_AllStates.png)
+
+## Overdose Mortality Rates for All States
+
+![](images/OverdoseMortalityRates_AllStates.png)
+
+## HIV Cases (%) Among Injection Drug Users for All States
+
+![](images/HIV_AllStates.png)

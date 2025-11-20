@@ -1,0 +1,22 @@
+/* Change the overall accent color (links, buttons) */
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #8b4513;
+  border-color: #8b4513;
+}
+
+/* Links (navbar, etc.) */
+a {
+  color: #8b4513;
+}
+
+a:hover,
+a:focus {
+  color: #5f2f0b;
+}
+
+/* Optional: headings */
+h1, h2, h3 {
+  color: #333333;
+}
